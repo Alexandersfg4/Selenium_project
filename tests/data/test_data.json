@@ -1,0 +1,13 @@
+{
+    "config":
+    {
+        "browser": "Firefox",
+        "implicit_wait": 12
+    }
+    ,
+    "valid_user_data":
+    {
+        "login": "test@test.com",
+        "password": "password"
+    }
+}
